@@ -167,4 +167,31 @@ This product-focused page allows you to drill down into specific product perform
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
+## Dashboard Explanation: Page Three
+![Screenshot 2024-07-06 181804](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/874d1ced-d283-466e-bb0a-b4a0dea12c7d)
+
+The third page of the dashboard focuses on location-based insights. This page also follows the same design and style as the previous pages but is tailored to provide geographical analysis of the sales data.
+
+### Key Features:
+
+ * **Consistent Design:** The layout and navigation buttons are consistent with the first and second pages, ensuring an intuitive and seamless user experience.
+
+ * **City-Wise Values:** This page shows values based on city, allowing for a detailed understanding of how sales, quantity sold, and orders are distributed across different locations.
+
+#### Interactive Visuals:
+ * **Map Visualization:** Users can click on buttons to see the selected values (Sales, Quantity Sold, and Orders) displayed on a map. This helps in visualizing geographical trends and identifying high-performing and low-performing cities.
+ * **Bar Chart:** In addition to the map, users can also view the data in a bar chart format. This provides an alternative visualization to compare city-wise performance easily.
+To gain a full understanding and interact with these insights, please visit the live dashboard.
+
+This location-focused page helps in identifying regional trends, making it easier to strategize location-specific marketing campaigns, optimize supply chains, and allocate resources effectively.
+
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+
+
+
+
+
+
+
+
 
