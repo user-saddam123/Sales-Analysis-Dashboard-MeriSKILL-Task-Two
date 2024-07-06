@@ -87,6 +87,7 @@ I am confident that you will find this project unique and insightful, unlike any
 ## Explanation:
 
 ## Dashboard Explanation: Page One
+![Screenshot 2024-07-06 181225](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/91410ff0-f0b0-4293-998e-4e31ffb7ceb5)
 
 Let's begin by exploring the first page of my dashboard. Below, you can see an image showcasing how Page One is designed.
 
@@ -146,3 +147,24 @@ This comprehensive layout ensures that all critical metrics and insights are eas
 
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+
+## Dashboard Explanation: Page Two
+![Screenshot 2024-07-06 181330](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/9c100416-e63f-47fc-aba6-a945e82040d5)
+
+The second page of the dashboard focuses on product-based insights. This page maintains the same design and visual appeal as the first page but includes different visuals to provide a detailed analysis of product performance.
+
+### Key Features:
+ * **Similar Design:** The overall layout and navigation buttons remain the same as on the first page, ensuring a consistent user experience.
+
+ * **Sales by Product**: This visual shows the sales performance of each product. It helps identify the top-selling products and those that may need attention.
+
+ * **Total Orders by Product:** This visual displays the total number of orders for each product. It provides insight into the demand for each product.
+
+ * **Total Quantity Sold by Product:** This visual illustrates the total quantity sold for each product, helping to understand which products are moving quickly and which are lagging.
+
+For detailed insights and to interact with the visuals, please visit the live dashboard.
+This product-focused page allows you to drill down into specific product performance metrics, providing valuable insights for inventory management, marketing strategies, and sales optimization.
+
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+
+
