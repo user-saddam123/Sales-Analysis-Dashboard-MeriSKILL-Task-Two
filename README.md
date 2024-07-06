@@ -81,3 +81,68 @@ I have designed this dashboard to be both visually appealing and easy to underst
  * **Comprehensive Insights:** The dashboard covers various aspects of sales performance, from overall trends to product-specific and location-specific insights.
 
 I am confident that you will find this project unique and insightful, unlike any other project you have seen before. Please take the time to explore each section in detail for a full understanding of the analysis and findings.
+
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
+
+## Explanation:
+
+## Dashboard Explanation: Page One
+
+Let's begin by exploring the first page of my dashboard. Below, you can see an image showcasing how Page One is designed.
+
+I aimed to make this page as visually appealing as possible.
+
+### Navigation Buttons: 
+On the left-hand side, you will find buttons labeled Dashboard, Product Performance, and Location Performance. These buttons are designed to help you navigate through the different pages of the dashboard easily.
+![Screenshot 2024-07-06 180640](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/773e7d6c-de0c-49a5-adfe-97972767a4a5)
+
+
+### Filter Section: 
+Users can open the filter section by clicking the filter button. Here, you can apply various filters to customize your view. Additionally, there is a "Clear All Filters and Slicers" button to remove any applied filters.
+
+
+### Top KPIs: 
+I have created three key performance indicators (KPIs) at the top of the page:
+![Screenshot 2024-07-06 180810](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/b682d525-f288-4de1-9853-1415c0002929)
+
+
+ * Total Sales: Indicates the sum of total sales, displayed in dollars. Below it, you can see the month-over-month growth.
+ * Total Sold Quantity: Indicates the sum of quantities sold, with month-over-month change shown below.
+ * Total Orders: Indicates the count of total order IDs, with month-over-month growth displayed underneath.
+
+### Secondary KPIs: 
+Additionally, there are four secondary KPIs:
+![Screenshot 2024-07-06 180830](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/1acd3144-1567-4a12-addb-2a24e0b30734)
+
+
+ * Unique Orders: Indicates the total number of unique order IDs.
+ * Repeated Orders: Indicates the number of duplicated order IDs.
+ * Average Sales per Order: Indicates the average sales per order. This KPI is calculated using a simple DAX formula: Total Sales / Total Orders.
+ * Average Quantity Sold per Order: Indicates the average quantity sold per order.
+
+### Monthly Trend Insights: 
+![Screenshot 2024-07-06 180929](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/58633087-3145-44c6-a6f0-71a28993d8ee)
+
+You can see the monthly trend analysis based on the selected KPI (Total Sales, Total Orders, or Total Quantity). Users can choose which KPI to visualize the monthly trend for by clicking the respective button.
+
+### Detailed Table: 
+![Screenshot 2024-07-06 180940](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/a1d05112-acdf-4c52-b31a-e537872d92fe)
+
+A table displays total sales, quantity, and orders based on the date. This helps in understanding sales performance over time.
+
+**Top and Bottom Products: At the bottom, I have included two visuals:**
+
+### Top 5 Products by Sales: 
+![Screenshot 2024-07-06 180951](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/f053014d-50eb-4738-8c47-7447e017ce68)
+
+Shows the top five products in terms of sales.
+
+### Bottom 5 Products by Sales: 
+![Screenshot 2024-07-06 181002](https://github.com/user-saddam123/Sales-Analysis-Dashboard-MeriSKILL-Task-Two/assets/123800896/c0c2abcb-44eb-47ce-9ac9-855a8cd228f7)
+
+Shows the bottom five products in terms of sales.
+
+This comprehensive layout ensures that all critical metrics and insights are easily accessible and understandable.
+
+
+✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
